@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Deep Prajapati
 - 👀 I’m interested in Java Development and Alogorithms
-- 🌱 I’m currently learning JavaScript/WevDev
+- 🌱 I’m currently learning JavaScript/FullStack_WevDev
 - 📫 Mail me : dp124551634@gmail.com
 
 <!---
