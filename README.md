@@ -1,3 +1,6 @@
+<!-- ### ✍️ Dev thoughts -->
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 # 💫 About Me:
 <!-- Hi, I'm Deep Prajapati.<br>I'm currently learning full-stack web development/Node.js.<br>I'm intrested in Java development and Algorithms -->
 - 👋 Hi, I’m Deep Prajapati
@@ -15,9 +18,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=deep-1704&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=deep-1704&theme=graywhite&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=deep-1704&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Dev thoughts
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 😂 Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
