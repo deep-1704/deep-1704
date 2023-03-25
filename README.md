@@ -16,10 +16,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=deep-1704&theme=graywhite&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=deep-1704&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev thoughts
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂 Random Dev Meme
+### 😂 Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
