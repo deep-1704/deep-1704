@@ -4,9 +4,9 @@
 # 💫 About Me:
 <!-- Hi, I'm Deep Prajapati.<br>I'm currently learning full-stack web development/Node.js.<br>I'm intrested in Java development and Algorithms -->
 - 👋 Hi, I’m Deep Prajapati
-- 👀 I’m interested in Java Development and Alogorithms
+- 👀 I’m interested in Java Development and Algorithms
 - 🌱 I’m currently learning FullStack_WevDev/Node.js
-- 📫 Mail me : dp124551634@gmail.com
+- 📫 Reach me: dp124551634@gmail.com
 
 
 ## 🌐 Socials:
