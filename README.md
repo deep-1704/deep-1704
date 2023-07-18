@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-👋 Hi, I’m Deep Prajapati<br>👀 I’m interested in Java Development and Algorithms<br>🌱 I’m currently learning ./MERN-Stack-dev/Node.js<br>📫 Reach me: dp124551634@gmail.com
+👋 Hi, I’m Deep Prajapati<br>👀 I’m interested in Java Development and Algorithms<br>🌱 I’m currently creating AskaDoc - MERN stack project.<br>📫 Reach me: dp124551634@gmail.com
 
 
 ## 🌐 Socials:
