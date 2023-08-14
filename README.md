@@ -1,6 +1,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 # 💫 About Me:
-👋 Hi, I’m Deep Prajapati<br>👀 I’m interested in Java Development and Algorithms<br>🌱 I’m currently creating AskaDoc - MERN stack project.<br>📫 Reach me: dp124551634@gmail.com
+👋 Hi, I’m Deep Prajapati<br>👀 I’m interested in Backend Development and Competetive Programming, <br>🌱 I’m currently learning about  Operating system and Computer Architecture.<br>📫 Reach me: dp124551634@gmail.com
 
 
 ## 🌐 Socials:
