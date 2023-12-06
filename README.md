@@ -1,7 +1,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 # 💫 About Me:
-👋 Hi, I’m Deep Prajapati<br>👀 I’m interested in Backend Development and Competitive Programming,<br>🌱 I’m currently learning about Operating systems and Computer Architecture.<br>😄 Checkout my [portfolio](https://deep-1704.github.io/Deep_Prajapati_Portfolio/)
+👋 Hi, I’m Deep Prajapati<br>👀 I’m interested in Backend Development and Competitive Programming,<br>🌱 I’m currently exploring Spring framework.<br>😄 Checkout my [portfolio](https://deep-1704.github.io/Deep_Prajapati_Portfolio/)
 
 
 ## 🌐 Socials:
